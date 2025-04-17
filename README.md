@@ -3,4 +3,4 @@ ZEN MAT is a Smart Yoga Mat with AI and sensors, detecting poses with 97.93% acc
 <img width="1656" alt="final flow chart new" src="https://github.com/user-attachments/assets/76348b5f-4859-4b2c-a5e4-ba27ec9f6718" />
 
 
-demo link:- https://drive.google.com/file/d/1wNffudoiDDrfN9YG69NrvaTVsvzi79_i/view?usp=sharing
+(updated)demo link:- https://drive.google.com/file/d/1OpMBrXeD40kojWRDAVZ2UHOnGSVRYKTW/view?usp=sharing
